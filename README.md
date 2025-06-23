@@ -59,6 +59,20 @@
 
 ###
 
+<h3 align="left">📂 Projects & Repositories</h3>
+
+<ul>
+  <li><strong>🛒 E-Commerce:</strong> Full stack shopping platform with cart, product catalog, and Stripe payments — MERN + Stripe</li>
+  <li><strong>💬 Chat App:</strong> Real-time chat app using WebSockets and MERN stack</li>
+  <li><strong>🎬 Netflix Clone:</strong> Frontend clone consuming TMDB API, built with React</li>
+  <li><strong>🧾 Admin Dashboard:</strong> Admin panel for managing users and products — Django + React</li>
+</ul>
+
+<p>➡️ <a href="https://github.com/sai7siri?tab=repositories" target="_blank">See all my repositories</a></p>
+
+###
+
+
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <div align="center">
